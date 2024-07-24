@@ -6,6 +6,7 @@ I am a future frontend developer, I am interested in different things. For examp
 
 Find out more about me & feel free to connect with me here:
 
+
 [![Telegram Badge](https://img.shields.io/badge/@XusanboyevOmadbek-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/XusanboyevOmadbek)](https://t.me/XusanboyevOmadbek) 
 [![Instagram Badge](https://img.shields.io/badge/@XusanboyevOmadbek-FF0004?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/omad_coder_07?igsh=MXAxM2R6Y2hpNG54YQ==)](https://www.instagram.com/omad_coder_07?igsh=MXAxM2R6Y2hpNG54YQ==)
 [![Facebook Badge](https://img.shields.io/badge/@XusanboyevOmadbek-FF0004?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100074413364976&mibextid=ZbWKwL)](https://www.facebook.com/profile.php?id=100074413364976&mibextid=ZbWKwL)
@@ -19,6 +20,10 @@ Find out more about me & feel free to connect with me here:
 - :muscle: Morning jogging and exercise
 - :rocket: Always ready to collaborate for Dev Experiments
 
+
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=omadbekxusanboyev&show_icons=true&theme=gotham" alt="omadbekxusanboyev" />
+
+
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omadbekxusanboyev&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="omadbekxusanboyev" /></a> </p>
