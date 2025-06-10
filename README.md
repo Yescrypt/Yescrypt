@@ -9,7 +9,9 @@ Find out more about me & feel free to connect with me here:
 
 [![Telegram Badge](https://img.shields.io/badge/@XusanboyevOmadbek-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/XusanboyevOmadbek)](https://t.me/XusanboyevOmadbek) 
 [![Instagram Badge](https://img.shields.io/badge/@XusanboyevOmadbek-FF0004?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/omad_coder_07?igsh=MXAxM2R6Y2hpNG54YQ==)](https://www.instagram.com/omad_coder_07?igsh=MXAxM2R6Y2hpNG54YQ==)
-[![Facebook Badge](https://img.shields.io/badge/@XusanboyevOmadbek-FF0004?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100095231617106)](https://www.facebook.com/profile.php?id=100095231617106) [![Linkedin Badge](https://img.shields.io/badge/@Omadbek__Xusanboyev-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xusanboyev-omadbek)
+[![Facebook Badge](https://img.shields.io/badge/@XusanboyevOmadbek-FF0004?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100095231617106)](https://www.facebook.com/profile.php?id=100095231617106)
+[![LinkedIn Badge](https://img.shields.io/badge/@OmadbekXusanboyev-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/xusanboyev-omadbek)](https://www.linkedin.com/in/xusanboyev-omadbek)
+
 
 
   
