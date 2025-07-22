@@ -1,12 +1,12 @@
 <h1 align="center">🚀 Omadbek Xusanboyev</h1>
-<h3 align="center">Frontend Developer | Cyber Security Enthusiast | Pentester</h3>
+<h3 align="center">Frontend Developer | Cyber Security | Pentester</h3>
 
 ---
 
 ## 👋 Hello and welcome to my GitHub profile!
 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" />
 
-I'm a passionate self-taught **Frontend Developer** and **Cyber Security / Pentesting** enthusiast.  
+I'm a passionate self-taught **Frontend Developer** and **Cyber Security / Pentesting**.  
 I build Telegram bots, web apps, and love exploring offensive security and penetration testing.
 
 ---
