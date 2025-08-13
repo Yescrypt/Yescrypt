@@ -35,12 +35,12 @@ I build Telegram bots, web apps, and love exploring offensive security and penet
 
 ## 📊 **GitHub Stats:**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omadbekxusanboyev&show_icons=true&theme=radical" alt="Omadbek's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yescrypt&show_icons=true&theme=radical" alt="Omadbek's GitHub stats" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=omadbekxusanboyev&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="omadbekxusanboyev" />
+    <img src="https://github-profile-trophy.vercel.app/?username=yescrypt&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="yescrypt" />
   </a>
 </p>
 
@@ -48,7 +48,7 @@ I build Telegram bots, web apps, and love exploring offensive security and penet
 
 ## 📫 **Contact me:**
 [![Telegram Badge](https://img.shields.io/badge/@XusanboyevOmadbek-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/XusanboyevOmadbek)
-[![Instagram Badge](https://img.shields.io/badge/@omad_coder_07-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/omad_coder_07)
+[![Instagram Badge](https://img.shields.io/badge/@yescrypt-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/yescrypt)
 [![Facebook Badge](https://img.shields.io/badge/@XusanboyevOmadbek-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100095231617106)
 [![LinkedIn Badge](https://img.shields.io/badge/OmadbekXusanboyev-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xusanboyev-omadbek)
 
