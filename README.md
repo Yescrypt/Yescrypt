@@ -48,7 +48,7 @@ I build Telegram bots, web apps, and love exploring offensive security and penet
 
 ## 📫 **Contact me:**
 [![Telegram Badge](https://img.shields.io/badge/@XusanboyevOmadbek-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/XusanboyevOmadbek)
-[![Instagram Badge](https://img.shields.io/badge/@yescrypt-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/yescrypt)
+[![Instagram Badge](https://img.shields.io/badge/@OmadbekXusanboyev-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/yescrypt)
 [![Facebook Badge](https://img.shields.io/badge/@XusanboyevOmadbek-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100095231617106)
 [![LinkedIn Badge](https://img.shields.io/badge/OmadbekXusanboyev-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xusanboyev-omadbek)
 
