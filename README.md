@@ -56,7 +56,7 @@ I build Telegram bots, web apps, and love exploring offensive security and penet
 
 ## ⭐ **If you like my profile, feel free to follow me!**
 <p align="center">
-  <a href="https://github.com/OmadbekXusanboyev" target="_blank">
-    <img src="https://img.shields.io/github/followers/OmadbekXusanboyev?label=Follow&style=social" alt="GitHub follow badge">
+  <a href="https://github.com/Yescrypt" target="_blank">
+    <img src="https://img.shields.io/github/followers/Yescrypt?label=Follow&style=social" alt="GitHub follow badge">
   </a>
 </p>
