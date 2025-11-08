@@ -1,14 +1,12 @@
-<h1 align="center">
-  <img class="icon" src="https://github.com/user-attachments/assets/4870615c-0bd0-418a-b253-e93f0298a45a" alt="Hacker icon" width="80" />
-  <br />
-  Omadbek Xusanboyev
-</h1>
-<style>
-.icon {
-  filter: invert(1) grayscale(1) brightness(2);
-}
-</style>
+<div align="center">
+  <!-- Inline SVG: fill="white" bilan oq qiladi -->
+  <svg width="80" height="80" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+    <path fill="white" d="M12 2C8.13 2 5 5.13 5 9c0 1.74.56 3.35 1.5 4.66C6.2 15.1 5 16.97 5 19v1h14v-1c0-2.03-1.2-3.9-1.5-5.34C18.44 12.35 19 10.74 19 9c0-3.87-3.13-7-7-7zm0 4a2 2 0 110 4 2 2 0 010-4z"/>
+  </svg>
 
+  <br />
+  # Omadbek Xusanboyev
+</div>
 
 
 <h1 align="center">
