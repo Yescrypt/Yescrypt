@@ -1,7 +1,7 @@
 # 🚀 Omadbek Xusanboyev
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Omadbek+Xusanboyev;+Frontend+Developer;+Cyber+Security+Specialist;+Penetration+Tester" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Omadbek+Xusanboyev;+Frontend+Developer;+Cyber+Security+Enthusiast;+Penetration+Tester" />
 </h1>
 
 <div align="center">
@@ -16,24 +16,24 @@ My path into technology has been anything but conventional. While I've always ha
 
 After completing my service, I made a deliberate choice to start with **Frontend Development** - not as an end goal, but as a foundation. I believed that to truly understand security, I needed to first understand how applications are built. This strategic approach allowed me to develop solid programming fundamentals while keeping my sights set on cyber security.
 
-Now, I've successfully transitioned into a **Penetration Tester**, combining my development background with security expertise. I specialize in identifying vulnerabilities, conducting security assessments, and helping organizations strengthen their digital defenses.
+Now, I've successfully transitioned into **Penetration Testing**, combining my development background with security expertise. I specialize in identifying vulnerabilities, conducting security assessments, and helping organizations strengthen their digital defenses.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🔐 Security Specialization
+### 🔐 Security Skills
 <p align="center">
-  <img src="https://img.shields.io/badge/Penetration%20Testing-Advanced-red?style=for-the-badge&logo=shield-check&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Penetration%20Testing-Intermediate-red?style=for-the-badge&logo=shield-check&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vulnerability%20Assessment-Intermediate-blue?style=for-the-badge&logo=search&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web%20Security-Specialist-green?style=for-the-badge&logo=web-security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web%20Security-Intermediate-green?style=for-the-badge&logo=web-security&logoColor=white"/>
 </p>
 
 ### 💻 Development Skills
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-Advanced-yellow?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React.js-Intermediate-blue?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-Pro-yellow?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-Intermediate-yellow?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-Intermediate-green?style=for-the-badge&logo=django&logoColor=white"/>
 </p>
 
@@ -41,7 +41,7 @@ Now, I've successfully transitioned into a **Penetration Tester**, combining my 
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-Intermediate-blue?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash_Scripting-Intermediate-green?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-Advanced-orange?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-Intermediate-orange?style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
 
 ### ⚡ Security Tools
@@ -73,7 +73,7 @@ Now, I've successfully transitioned into a **Penetration Tester**, combining my 
 
 ---
 
-## 🌱 Currently Mastering
+## 🌱 Currently Learning
 
 <div align="center">
   
@@ -93,7 +93,7 @@ Now, I've successfully transitioned into a **Penetration Tester**, combining my 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yescrypt)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100095231617106)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xusanboyev-omadbek)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yescrypt571@gmail.com)
 
 </div>
 
