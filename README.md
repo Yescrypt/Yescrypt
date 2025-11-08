@@ -1,43 +1,116 @@
-<h1 align="center">🔐 Omadbek Xusanboyev</h1>
-<h3 align="center">Penetration Tester | Security Researcher | Frontend Developer</h3>
+# 🚀 Omadbek Xusanboyev
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Omadbek+Xusanboyev;+Frontend+Developer;+Cyber+Security+Specialist;+Penetration+Tester" />
+</h1>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</div>
+
+## 👨‍💻 My Journey
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
+
+My path into technology has been anything but conventional. While I've always had a technical mindset, it was during my military service that I discovered my true passion. Working with communication systems and radio frequencies opened my eyes to the fascinating world of **cyber security**.
+
+After completing my service, I made a deliberate choice to start with **Frontend Development** - not as an end goal, but as a foundation. I believed that to truly understand security, I needed to first understand how applications are built. This strategic approach allowed me to develop solid programming fundamentals while keeping my sights set on cyber security.
+
+Now, I've successfully transitioned into a **Penetration Tester**, combining my development background with security expertise. I specialize in identifying vulnerabilities, conducting security assessments, and helping organizations strengthen their digital defenses.
 
 ---
 
-## 👋 **About Me**
-<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" />
+## 🛠️ Tech Stack
 
-I'm a passionate **Security Researcher** and **Penetration Tester** with expertise in web application security, network penetration testing, and vulnerability assessment. I also develop secure web applications with a focus on security-first approach.
+### 🔐 Security Specialization
+<p align="center">
+  <img src="https://img.shields.io/badge/Penetration%20Testing-Expert-red?style=for-the-badge&logo=shield-check&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vulnerability%20Assessment-Pro-blue?style=for-the-badge&logo=search&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web%20Security-Specialist-green?style=for-the-badge&logo=web-security&logoColor=white"/>
+</p>
+
+### 💻 Development Skills
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-Expert-yellow?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React.js-Advanced-blue?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-Intermediate-green?style=for-the-badge&logo=node.js&logoColor=white"/>
+</p>
+
+### ⚡ Security Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Metasploit-Pro-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-Expert-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Nmap-Advanced-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Wireshark-Intermediate-blue?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🔥 **Core Competencies**
+## 📊 GitHub Analytics
 
-### 🛡️ **Security Skills:**
-- **Web App Pentesting**: OWASP Top 10, XSS, SQLi, CSRF, SSRF
-- **Network Security**: Nmap, Wireshark, Metasploit, Burp Suite
-- **Vulnerability Assessment**: SAST/DAST tools, manual testing
-- **Reverse Engineering**: Basic malware analysis, binary exploitation
-- **CTF Experience**: TryHackMe, HackTheBox platforms
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yescrypt&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yescrypt&theme=radical&hide_border=true" />
+</div>
 
-### 💻 **Development:**
-- **Frontend**: JavaScript, React.js, HTML5, CSS3
-- **Security Tools**: Custom scripts for automation
-- **Telegram Bots**: Secure bot development
+<div align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yescrypt&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=yescrypt&theme=radical&row=2&column=4&no-bg=true&no-frame=true" alt="yescrypt" />
+  </a>
+</div>
 
 ---
 
-## 🛠️ **Technical Arsenal**
+## 🌱 Currently Mastering
 
-### **Penetration Testing Tools:**
-```bash
-# Reconnaissance
-nmap, subfinder, amass, theHarvester
+<div align="center">
+  
+  **🚀 Advanced Penetration Testing** | **🔍 Vulnerability Research**  
+  **🌐 Web Application Security** | **⚡ Security Automation**  
+  **📱 Mobile Security** | **☁️ Cloud Security**
+  
+</div>
 
-# Vulnerability Scanners
-nuclei, nikto, sqlmap, burpsuite
+---
 
-# Exploitation
-metasploit, searchsploit, hydra
+## 📫 Let's Connect
 
-# Web Application Testing
-burp suite, owasp zap, ffuf, gobuster
+<div align="center">
+  
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/XusanboyevOmadbek)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yescrypt)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100095231617106)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xusanboyev-omadbek)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+
+</div>
+
+---
+
+## ⭐ Support My Journey
+
+<div align="center">
+  
+### **If you appreciate my work, feel free to follow me!**
+  
+[![GitHub Follow](https://img.shields.io/github/followers/yescrypt?label=Follow%20%40yescrypt&style=for-the-badge&color=blueviolet&logo=github)](https://github.com/Yescrypt)
+  
+<img src="https://komarev.com/ghpvc/?username=yescrypt&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+
+</div>
+
+---
+
+<div align="center">
+  
+### **"From military communications to cyber defense - building a secure digital future, one vulnerability at a time."**
+  
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</div>
