@@ -3,6 +3,11 @@
   <br />
   Omadbek Xusanboyev
 </h1>
+<style>
+.icon {
+  filter: invert(1) grayscale(1) brightness(2);
+}
+</style>
 
 
 
