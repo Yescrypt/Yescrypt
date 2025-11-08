@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img class="icon" src="https://github.com/user-attachments/assets/4870615c-0bd0-418a-b253-e93f0298a45a" alt="Hacker icon" width="80" style="filter: invert(1);" />
+  <img class="icon" src="https://www.vhv.rs/dpng/d/514-5142022_hacker-mask-transparent-background-guy-fawkes-mask-hd.png" alt="Hacker icon" width="80" style="filter: invert(1);" />
   <br />
   Omadbek Xusanboyev
 </h1>
