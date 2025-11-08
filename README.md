@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img class="icon" src="https://cdn3d.iconscout.com/3d/premium/thumb/hacker-3d-icon-png-download-4668704.png" alt="Hacker icon" width="80" style="filter: invert(1);" />
+  <img class="icon" src="https://cdn3d.iconscout.com/3d/premium/thumb/hacker-3d-icon-png-download-4668704.png" alt="Hacker icon" width="130" style="filter: invert(1);" />
   <br />
   Omadbek Xusanboyev
 </h1>
