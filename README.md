@@ -1,8 +1,10 @@
-<div align="center">
-  [![Hacker](https://img.shields.io/badge/-Hacker-black?style=for-the-badge&logo=hackthebox&logoColor=white)]
-</div>
+<h1 align="center">
+  <img src="<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/4870615c-0bd0-418a-b253-e93f0298a45a" />
+" alt="Hacker icon" width="80" />
+  <br />
+  Omadbek Xusanboyev
+</h1>
 
-# Omadbek Xusanboyev
 
 
 <h1 align="center">
