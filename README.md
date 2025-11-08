@@ -115,7 +115,7 @@ Now, I've successfully transitioned into **Penetration Testing**, combining my d
 
 <div align="center">
   
-### **"From military communications to cyber defense - building a secure digital future, one vulnerability at a time."**
+### **"From military communications to cyber defense - continuously learning and growing in cybersecurity"**
   
 </div>
 
