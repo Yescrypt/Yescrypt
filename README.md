@@ -24,22 +24,30 @@ Now, I've successfully transitioned into a **Penetration Tester**, combining my 
 
 ### 🔐 Security Specialization
 <p align="center">
-  <img src="https://img.shields.io/badge/Penetration%20Testing-Expert-red?style=for-the-badge&logo=shield-check&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vulnerability%20Assessment-Pro-blue?style=for-the-badge&logo=search&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Penetration%20Testing-Advanced-red?style=for-the-badge&logo=shield-check&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vulnerability%20Assessment-Intermediate-blue?style=for-the-badge&logo=search&logoColor=white"/>
   <img src="https://img.shields.io/badge/Web%20Security-Specialist-green?style=for-the-badge&logo=web-security&logoColor=white"/>
 </p>
 
 ### 💻 Development Skills
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-Expert-yellow?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React.js-Advanced-blue?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-Intermediate-green?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-Advanced-yellow?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React.js-Intermediate-blue?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-Pro-yellow?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-Intermediate-green?style=for-the-badge&logo=django&logoColor=white"/>
+</p>
+
+### 🗄️ Databases & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-Intermediate-blue?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash_Scripting-Intermediate-green?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-Advanced-orange?style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
 
 ### ⚡ Security Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Metasploit-Pro-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-Expert-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Metasploit-Intermediate-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-Intermediate-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Nmap-Advanced-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Wireshark-Intermediate-blue?style=for-the-badge"/>
 </p>
@@ -71,7 +79,7 @@ Now, I've successfully transitioned into a **Penetration Tester**, combining my 
   
   **🚀 Advanced Penetration Testing** | **🔍 Vulnerability Research**  
   **🌐 Web Application Security** | **⚡ Security Automation**  
-  **📱 Mobile Security** | **☁️ Cloud Security**
+  **🐍 Python Security Tools** | **☁️ Cloud Security**
   
 </div>
 
