@@ -1,15 +1,5 @@
-<style>
-.icon {
-  filter: invert(1);
-  /* yoki */
-  background-color: white;
-  border-radius: 50%;
-  padding: 5px;
-}
-</style>
-
 <h1 align="center">
-  <img class="icon" src="https://github.com/user-attachments/assets/4870615c-0bd0-418a-b253-e93f0298a45a" alt="Hacker icon" width="80" />
+  <img class="icon" src="https://github.com/user-attachments/assets/4870615c-0bd0-418a-b253-e93f0298a45a" alt="Hacker icon" width="80" style="filter: invert(1);" />
   <br />
   Omadbek Xusanboyev
 </h1>
