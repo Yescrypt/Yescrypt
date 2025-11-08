@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/user-attachments/assets/4870615c-0bd0-418a-b253-e93f0298a45a" alt="Hacker icon" width="80" />
+  <img class="icon" src="https://github.com/user-attachments/assets/4870615c-0bd0-418a-b253-e93f0298a45a" alt="Hacker icon" width="80" />
   <br />
   Omadbek Xusanboyev
 </h1>
