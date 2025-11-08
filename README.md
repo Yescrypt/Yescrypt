@@ -12,11 +12,11 @@
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
 
-My path into technology has been anything but conventional. While I've always had a technical mindset, it was during my military service that I discovered my true passion. Working with communication systems and radio frequencies opened my eyes to the fascinating world of **cyber security**.
+I grew up in a village and didn’t know careers like this existed. I was familiar with everyday appliances and could fix simple devices, but I didn’t understand the importance of computers or the cyber field — partly because such opportunities were scarce where I lived.
 
-After completing my service, I made a deliberate choice to start with **Frontend Development** - not as an end goal, but as a foundation. I believed that to truly understand security, I needed to first understand how applications are built. This strategic approach allowed me to develop solid programming fundamentals while keeping my sights set on cyber security.
+As I grew older, I joined the army and served in the defense sector. Observing a nearby communications unit and how they worked sparked my interest in technology and security. That’s when I first became curious about the cyber world.
 
-Now, I've successfully transitioned into **Penetration Testing**, combining my development background with security expertise. I specialize in identifying vulnerabilities, conducting security assessments, and helping organizations strengthen their digital defenses.
+After returning from service, I started learning programming — beginning with Frontend development — but my goal was always Cybersecurity. I moved my focus to that area, deepened my skills, and today I work as a Pentester, finding vulnerabilities and helping to improve system security.
 
 ---
 
