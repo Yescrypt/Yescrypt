@@ -58,17 +58,17 @@ Today I work as a **Pentester**, discovering vulnerabilities and helping improve
 
 # 📊 GitHub Analytics
 
-<!-- <div align="center">
+<div align="center">
 
-<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yescrypt&show_icons=true&theme=radical&hide_border=true"/>
+<!-- <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yescrypt&show_icons=true&theme=radical&hide_border=true"/> -->
 
 <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=yescrypt&theme=radical&hide_border=true"/>
 
-</div> -->
+</div>
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yescrypt&layout=compact&theme=radical&hide_border=true"/>
+<!-- <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yescrypt&layout=compact&theme=radical&hide_border=true"/> -->
 
 </div>
 
