@@ -60,7 +60,7 @@ Today I work as a **Pentester**, discovering vulnerabilities and helping improve
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yescrypt&show_icons=true&theme=radical&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yescrypt&show_icons=true&theme=radical&hide_border=true&count_private=true" />
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yescrypt&theme=radical&hide_border=true" />
 
@@ -68,7 +68,7 @@ Today I work as a **Pentester**, discovering vulnerabilities and helping improve
 
 <div align="center">
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yescrypt&layout=compact&theme=radical&hide_border=true"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yescrypt&theme=radical&hide_border=true&layout=compact&langs_count=8"/>
 
 </div>
 
