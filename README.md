@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://skillicons.dev/icons?i=linux" width="120" />
-</h1>
+<h1 align="center"> <img class="icon" src="https://cdn3d.iconscout.com/3d/premium/thumb/hacker-3d-icon-png-download-4668704.png" alt="Hacker icon" width="130" style="filter: invert(1);" /> </h1>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&color=F39C12&center=true&vCenter=true&width=600&height=70&lines=Hi+There!+👋;I'm+Omadbek+Xusanboyev;Cybersecurity+Specialist;Penetration+Tester;Python+Security+Developer" />
