@@ -129,7 +129,7 @@ Today I work as a **Pentester**, discovering vulnerabilities and helping improve
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yescrypt&theme=react-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yescrypt&theme=react-dark&hide_border=true&days=30"/>
 
 </div>
 
