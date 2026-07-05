@@ -122,15 +122,3 @@ Today I work as a **Pentester**, discovering vulnerabilities and helping improve
 ---
 
 ### “From military communications to cyber defense — continuously learning and growing in cybersecurity”
-
----
-
-# 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yescrypt&theme=react-dark&hide_border=true&days=30"/>
-
-</div>
-
----
