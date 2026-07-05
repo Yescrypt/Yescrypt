@@ -1,100 +1,75 @@
-<h1 align="center"> <img class="icon" src="https://cdn3d.iconscout.com/3d/premium/thumb/hacker-3d-icon-png-download-4668704.png" alt="Hacker icon" width="130" style="filter: invert(1);" /> </h1>
+<h1 align="center">Omadbek Xusanboyev</h1>
+<h3 align="center">Cybersecurity Specialist | Penetration Tester | OSINT Researcher</h3>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&color=F39C12&center=true&vCenter=true&width=600&height=70&lines=Hi+There!+👋;I'm+Omadbek+Xusanboyev;Cybersecurity+Specialist;Penetration+Tester;Python+Security+Developer" />
-</h1>
-
-<div align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-</div>
+</p>
 
 ---
 
-# 👨‍💻 My Journey
+## About Me
 
-I grew up in a village and didn’t know careers like cybersecurity even existed.  
-I was familiar with everyday appliances and could repair small devices, but I didn’t understand the importance of computers or cyber technologies.
+I began my path far from technology, in a village where careers like cybersecurity were unknown to me. My first technical exposure came through repairing everyday appliances, which built an early interest in how systems work.
 
-Later I joined the **military** and served in the defense sector.  
-While there, I observed how a **communications unit** worked. Seeing how technology supported secure communication sparked my interest in the cyber field.
+During my military service, I worked closely with a communications unit and saw firsthand how secure communication systems are built and defended. That experience turned into a long-term interest in cybersecurity.
 
-After completing my service, I began learning **programming**, starting with **Frontend development**.  
-However, my real goal was always **Cybersecurity**.
+After completing my service, I started with frontend development to build a technical foundation, then moved fully into security — focusing on web application vulnerabilities, penetration testing, OSINT, and security automation.
 
-Over time I shifted my focus completely to security — studying **web vulnerabilities, penetration testing, and security automation**.
-
-Today I work as a **Pentester**, discovering vulnerabilities and helping improve system security.
+Today I work as a **Penetration Tester**, conducting security assessments and vulnerability research. I also **mentor aspiring cybersecurity specialists**, and have trained **70+ students** so far, guiding them from fundamentals into practical, hands-on security work.
 
 ---
 
-# 🛠 Tech Stack
+## Focus Areas
 
-### 🔐 Security
+- Web Application Penetration Testing
+- Network Security Assessment
+- OSINT (Open Source Intelligence) Investigations
+- Vulnerability Research
+- Security Automation & Tooling
+- Cybersecurity Mentorship & Training
+
+---
+
+## Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=linux,python,bash,django,postgres" />
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Penetration_Testing-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Web_Security-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vulnerability_Research-blue?style=for-the-badge"/>
-</p>
+## Tools & Frameworks
+
+| Category | Tools |
+|---|---|
+| Network / Brute-force | Nmap, Hydra |
+| Web Application Testing | Burp Suite |
+| Exploitation | Metasploit, Arsenal-NG |
+| Traffic Analysis | Wireshark |
+| Post-Exploitation | Penelope |
+| Logging / Analysis | Logba |
+| OSINT | Manual & automated reconnaissance methods |
 
 ---
 
-# ⚡ Security Tools
+## Mentorship
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Nmap-Advanced-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Burp_Suite-Intermediate-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Metasploit-Intermediate-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Wireshark-Intermediate-blue?style=for-the-badge"/>
-
-</p>
+I run cybersecurity training focused on practical, real-world skills — covering penetration testing fundamentals, OSINT methodology, and web security. To date, I have mentored **70+ students**, helping them move from beginner level into applied security work.
 
 ---
 
-# 📊 GitHub Analytics
+## GitHub Stats
 
 <div align="center">
-
-<!-- <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yescrypt&show_icons=true&theme=radical&hide_border=true"/> -->
-
 <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=yescrypt&theme=radical&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<!-- <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yescrypt&layout=compact&theme=radical&hide_border=true"/> -->
-
 </div>
 
 ---
 
-# 🌱 Currently Learning
-
-🚀 Advanced Penetration Testing  
-🔍 Vulnerability Research  
-🌐 Web Application Security  
-⚡ Security Automation  
-🐍 Python Security Tools  
-☁️ Cloud Security  
-
----
-
-# 📫 Let's Connect
+## Contact
 
 <div align="center">
 
 <a href="https://t.me/anonim_xatbot" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/yescrypt" target="_blank" rel="noopener noreferrer">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/yescrypt" target="_blank" rel="noopener noreferrer">
@@ -109,16 +84,4 @@ Today I work as a **Pentester**, discovering vulnerabilities and helping improve
 
 ---
 
-# ⭐ Support My Journey
-
-<div align="center">
-
-[![GitHub Follow](https://img.shields.io/github/followers/yescrypt?label=Follow%20@yescrypt&style=for-the-badge)](https://github.com/yescrypt)
-
-<img src="https://komarev.com/ghpvc/?username=yescrypt&label=Profile+Views&style=for-the-badge"/>
-
-</div>
-
----
-
-### “From military communications to cyber defense — continuously learning and growing in cybersecurity”
+<p align="center"><i>From military communications to cybersecurity — building skills, testing systems, and training the next generation.</i></p>
