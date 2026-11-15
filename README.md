@@ -72,12 +72,7 @@ I run cybersecurity training focused on practical, real-world skills — coverin
 ## GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Yescrypt&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-  <img height="165em" src="https://streak-stats.demolab.com/?user=Yescrypt&theme=radical&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yescrypt&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
+  <img height="170em" src="https://streak-stats.demolab.com/?user=Yescrypt&theme=radical&hide_border=true"/>
 </div>
 
 ---
